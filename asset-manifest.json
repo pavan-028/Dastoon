@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dastoon/static/css/main.23671d93.css",
-    "main.js": "/Dastoon/static/js/main.347bc764.js",
-    "static/js/787.af3ef8e3.chunk.js": "/Dastoon/static/js/787.af3ef8e3.chunk.js",
-    "index.html": "/Dastoon/index.html",
-    "main.23671d93.css.map": "/Dastoon/static/css/main.23671d93.css.map",
-    "main.347bc764.js.map": "/Dastoon/static/js/main.347bc764.js.map",
-    "787.af3ef8e3.chunk.js.map": "/Dastoon/static/js/787.af3ef8e3.chunk.js.map"
+    "main.css": "/dashtoon/static/css/main.23671d93.css",
+    "main.js": "/dashtoon/static/js/main.5cec7565.js",
+    "static/js/787.af3ef8e3.chunk.js": "/dashtoon/static/js/787.af3ef8e3.chunk.js",
+    "index.html": "/dashtoon/index.html",
+    "main.23671d93.css.map": "/dashtoon/static/css/main.23671d93.css.map",
+    "main.5cec7565.js.map": "/dashtoon/static/js/main.5cec7565.js.map",
+    "787.af3ef8e3.chunk.js.map": "/dashtoon/static/js/787.af3ef8e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23671d93.css",
-    "static/js/main.347bc764.js"
+    "static/js/main.5cec7565.js"
   ]
 }
